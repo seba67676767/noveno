@@ -1,10 +1,11 @@
 
+
 body{
   font-family:cursive;
   
-  background-color: #c50e0e; 
+  background-color: #ffffff; 
   margin: 1;
-  color: #dad1d1; 
+  color: #281cd3; 
   
 
 
@@ -12,7 +13,17 @@ body{
 }
 div{
 
-background-color:#102eb4
 
 
+
+}
+
+.tarjetas-herramientas{
+  border:1px solid #fffefe;
+  padding: 15;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: #d3d3d3;
+  border-left: 6px solid #db3434;
+  padding-left: 20px;
 }
